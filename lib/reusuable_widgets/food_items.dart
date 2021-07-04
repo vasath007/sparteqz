@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:sparteqz/model/food_model.dart';
 
-
 class FoodItem extends StatefulWidget
 {
   List<FoodDetails> foodDetails;
